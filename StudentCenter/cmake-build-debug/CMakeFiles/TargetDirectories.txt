@@ -1,0 +1,3 @@
+C:/Users/austi/CLionProjects/StudentCenter/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/austi/CLionProjects/StudentCenter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/austi/CLionProjects/StudentCenter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
